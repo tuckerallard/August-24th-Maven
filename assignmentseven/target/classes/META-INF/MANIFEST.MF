@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: Basic Maven Project
+Package: com.assignmentseven
+Implementation-Version: 1.0
+Built-By: admin
+Specification-Vendor: Bernardo Martￃﾭnez Garrido
+Specification-Title: Basic Maven Project
+Implementation-Vendor-Id: com.assignmentseven
+Class-Path: com/google/guava/guava/19.0/guava-19.0.jar
+url: https://github.com/bernardo-mg/assignmentseven
+Implementation-Vendor: Bernardo Martￃﾭnez Garrido
+name: com/assignmentseven
+Build-Jdk: 1.8.0_101
+Specification-Version: 1.0
+Implementation-URL: https://github.com/bernardo-mg/assignmentseven
+Created-By: Maven Integration for Eclipse
+
